@@ -1,4 +1,4 @@
-import '@/app/globals.css';
+import '../globals.css';
 import Header from '@/components/ui/Header';
 import Footer from '@/components/ui/Footer';
 
